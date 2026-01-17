@@ -85,3 +85,4 @@ for (var i = 0; i < imageList.length; i++) {
       '<span class="image-name">' + nameList[i] + '</span>' +
     '</div>';
 }
+
